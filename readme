@@ -1,0 +1,5 @@
+# selenide_java
+
+使用selenide的第一个可以运行的例子，
+需要注意的是，
+有一个包需要自己添加guava-r09.jar，下载地址在http://www.java2s.com/Code/Jar/g/Downloadguavar09jar.htm
