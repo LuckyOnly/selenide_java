@@ -75,7 +75,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/tools/maven/.m2/repository/com/google/guava/guava/guava-r09.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/guava-r09.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
